@@ -20,7 +20,7 @@ To go through this example:
 
 ```bash
 # To download the project code to your computer, type this command in the command line prompt
-git clone [address]
+git clone https://github.com/liotrusy/usefulness_of_high_level_languages.git
 
 # navigate to the project directory
 cd usefulness_of_high_level_languages
